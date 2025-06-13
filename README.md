@@ -1,15 +1,12 @@
 <html>
-  
-  <frameset cols="120,*">
+  <frameset cols="200,*">
     
     <frame src="frame_a.html">
-    <frame src="Garrick.html" name="frame 1">
-    <frame src="Emily.html" name="frame 2">
-    <frame src="Gavin.html" name="frame 3">
-    <frame src="Alyssa.html" name="frame 4">
-    <frame src="Lucie.html" name="frame 5">
-
+    <frame src="Alyssa.html">
+    <frame src="Emily.html">
+    <frame src="Garrick.html">
+    <frame src="Gavin.html">
+    <frame src="Lucie.html">
+    
   </frameset>
-  
 </html>
-
