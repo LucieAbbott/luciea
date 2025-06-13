@@ -2,8 +2,10 @@
     <head>
     </head>
 <body>
-    <iframe src="frame_a.html" width=25%></iframe>
-    <iframe src="frame_b.html" name="Showframe" width=75%></iframe>
+    <div>
+        <iframe class="left" src="frame_a.html" width="25%"></iframe>
+        <iframe class="right" src="frame_b.html" width="75%"></iframe>
+    </div>
     
 </body>
     
