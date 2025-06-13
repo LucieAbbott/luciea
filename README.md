@@ -10,17 +10,17 @@
       height: 100%;
     }
     .left {
-      width: 25%;
+      width: 15%;
     }
     .right {
-      width: 75%;
+      width: 85%;
     }
   </style>
 </head>
 <body>
   <div class="container">
     <iframe class="left" src="frame_a.html"></iframe>
-    <iframe class="right" src="frame_b.html" name="Showframe"></iframe>
+    <iframe class="right" src="Garrick.html" name="Showframe"></iframe>
   </div>
 </body>
 </html>
