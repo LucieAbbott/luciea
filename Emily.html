@@ -1,9 +1,4 @@
 <html lang="en">
-<br>
-<br>
-<p style="text-indent: 15em;">
-<font color = "blue" size = 6><a href = "emchristman.github.io">Emily Christman</a></font>
-</p>
 <html>
 <head>
 </head>
